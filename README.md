@@ -1,16 +1,23 @@
-## Hi there 👋
+Hi, I'm Victor Aquino!
 
-<!--
-**ziffythealien-blip/ziffythealien-blip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software developer with over 10 years of experience in software development, quality assurance automation, cloud services, and AI-based solutions. My specialty is transforming complex business processes into autonomous and intelligent systems.
 
-Here are some ideas to get you started:
+Main Technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+• Programming Languages: Python, Java, JavaScript, C#, C++
+
+• Frameworks: Flask, Django, ASP.NET
+
+• AI and Data: OpenAI, Claude, Gemini, Ollama, RAG architectures, vector databases, TensorFlow, PyTorch
+
+• Cloud and DevOps: AWS, Docker, GitHub Actions, CI/CD
+
+Selected AI Projects
+
+• Multi-Agent AI Assistant: Integrated learning management system with custom storage and advanced automation workflows.
+
+• RAG Knowledge Platform: Document search and inference systems with text embedding and locally optimized vector databases.
+
+• Intelligent Automation Agent: Scalable infrastructure to optimize recurring business processes with AWS and Docker.
+
+Contact: ziffythealien@gmail.com | San Salvador, El Salvador
